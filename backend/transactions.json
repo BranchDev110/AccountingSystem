@@ -1,0 +1,85 @@
+[
+  {
+    "date": "2024-05-29T08:00:00Z",
+    "amount": 100.5,
+    "type": "credit",
+    "description": "Salary deposit"
+  },
+  {
+    "date": "2024-05-30T12:30:00Z",
+    "amount": 25,
+    "type": "debit",
+    "description": "Grocery shopping"
+  },
+  {
+    "date": "2024-05-31T15:45:00Z",
+    "amount": 50,
+    "type": "debit",
+    "description": "Dinner at restaurant"
+  },
+  {
+    "date": "2024-06-01T09:15:00Z",
+    "amount": 200,
+    "type": "credit",
+    "description": "Freelance project payment"
+  },
+  {
+    "date": "2024-06-02T11:00:00Z",
+    "amount": 20,
+    "type": "debit",
+    "description": "Coffee with friends"
+  },
+  {
+    "amount": "342",
+    "type": "debit",
+    "description": "343"
+  },
+  {
+    "amount": 45,
+    "type": "credit",
+    "description": "4545",
+    "date": "2024-05-30T00:21:24.875Z"
+  },
+  {
+    "amount": 11111,
+    "type": "credit",
+    "description": "aaaaaaaaaaaaaaaaa",
+    "date": "2024-05-30T00:21:46.146Z"
+  },
+  {
+    "amount": 4443,
+    "type": "credit",
+    "description": "wreqwerqer",
+    "date": "2024-05-30T00:30:24.316Z"
+  },
+  {
+    "amount": 344444,
+    "type": "credit",
+    "description": "yteererer",
+    "date": "2024-05-30T00:46:25.682Z"
+  },
+  {
+    "amount": 100,
+    "type": "credit",
+    "description": "Initial deposit",
+    "date": "2024-05-30T00:47:05.421Z"
+  },
+  {
+    "amount": 343,
+    "type": "credit",
+    "description": "23123",
+    "date": "2024-05-30T01:54:17.074Z"
+  },
+  {
+    "amount": 111111111111111,
+    "type": "credit",
+    "description": "33333333333333311asssssssssssssss",
+    "date": "2024-05-30T01:54:26.936Z"
+  },
+  {
+    "amount": 4343,
+    "type": "debit",
+    "description": "tttttttttttttt",
+    "date": "2024-05-30T02:12:15.154Z"
+  }
+]
